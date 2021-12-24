@@ -8,4 +8,8 @@ const person={
     age:23,hobbies:['Sports','Cooking']
 }
 
+let favsp:any[];
+favsp=['ssss',1];
+
 console.log(person.name);
+
