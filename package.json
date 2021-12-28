@@ -15,5 +15,13 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heshanu/typescriptjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/heshanu/typescriptjs/issues"
+  },
+  "homepage": "https://github.com/heshanu/typescriptjs#readme"
 }
